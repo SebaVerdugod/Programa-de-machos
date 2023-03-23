@@ -95,7 +95,7 @@ function generar(){
         <label>N170 G0 G40 X200 Z200;</label>
         <label>N180 T1010;</label>
         <label>N190 G97 S1200 M4;</label>
-        <label>N200 G70 P30 Q150;</label>
+        <label>N200 G70 P70 Q150;</label>
         <label>N210 G0 G40 X200 Z200;</label>
         <label>N220 M30;</label>
         <h1>Fin del Programa</h1>
@@ -142,7 +142,7 @@ function generar(){
         <label>N170 G0 G40 X200 Z200;</label>
         <label>N180 T1010;</label>
         <label>N190 G97 S1200 M4;</label>
-        <label>N200 G70 P30 Q150;</label>
+        <label>N200 G70 P70 Q150;</label>
         <label>N210 G0 G40 X200 Z200;</label>
         <label>N220 M3O;</label>
         <h1>Fin del Programa</h1>
